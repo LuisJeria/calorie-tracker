@@ -18,6 +18,6 @@ export const activityReducer = (
   action: ActivityActions
 ) => {
   if (action.type === "save-activity") {
-    //codigo que maneja la logica para actualizar el state
+    //codigo que maneja la logica para actualizar el state despues
   }
 };
